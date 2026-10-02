@@ -1,0 +1,14 @@
+  {
+    "name": "resh",
+    "owner": {
+      "name": "Resh",
+      "url": "https://resh.com.br"
+    },
+    "plugins": [
+      {
+        "name": "resh-pentest",
+        "source": "./plugins/resh-pentest",
+        "description": "Pentest guidance for Claude Code, with a clearly labeled sponsored note from Resh."
+      }
+    ]
+  }
